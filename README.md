@@ -1,10 +1,18 @@
-# master-thesis
+forked from https://github.com/Amet13/master-thesis
 
-[![Actions Status](https://github.com/Amet13/master-thesis/workflows/master-thesis/badge.svg)](https://github.com/Amet13/master-thesis/actions)
-[![Лицензия на исходный код](https://img.shields.io/badge/license-GNU_GPLv3-red.svg)](https://www.gnu.org/licenses/gpl-3.0.ru.html)
-[![Лицензия на произведения](https://img.shields.io/badge/license-CC_BY--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/deed.ru)
+# final project paper
 
-Выпускная квалификационная работа (ВКР) магистра в LaTeX, оформленная в соответствии с нормоконтролем Севастопольского государственного университета в 2017 г.
+[//]: # ([![Actions Status]&#40;https://github.com/Amet13/master-thesis/workflows/master-thesis/badge.svg&#41;]&#40;https://github.com/Amet13/master-thesis/actions&#41;)
+
+[//]: # ([![Лицензия на исходный код]&#40;https://img.shields.io/badge/license-GNU_GPLv3-red.svg&#41;]&#40;https://www.gnu.org/licenses/gpl-3.0.ru.html&#41;)
+
+[//]: # ([![Лицензия на произведения]&#40;https://img.shields.io/badge/license-CC_BY--SA_4.0-blue.svg&#41;]&#40;https://creativecommons.org/licenses/by-sa/4.0/deed.ru&#41;)
+
+Выпускная квалификационная работа (ВКР) специалиста по DataScience оформленная в LaTeX. 
+
+Высшая Школа Экономики. 
+
+2022 г.
 
 ## Особенности
 
